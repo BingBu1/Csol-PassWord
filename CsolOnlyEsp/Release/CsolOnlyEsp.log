@@ -1,0 +1,8 @@
+﻿  main.cpp
+G:\New NARTOOL\MySouce\csol\MySouceAndXiaoDouBi\vs2017\CsolOnlyEsp\CsolOnlyEsp\main.cpp(28,27): warning C4101: “Mem”: 未引用的局部变量
+G:\New NARTOOL\MySouce\csol\MySouceAndXiaoDouBi\vs2017\CsolOnlyEsp\CsolOnlyEsp\main.cpp(105,6): warning C4007: “DllMain”: 必须是“__stdcall”
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 277 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CsolOnlyEsp.vcxproj -> G:\New NARTOOL\MySouce\csol\MySouceAndXiaoDouBi\vs2017\CsolOnlyEsp\Release\CsolOnlyEsp.dll
